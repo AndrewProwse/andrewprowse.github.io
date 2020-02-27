@@ -51,7 +51,7 @@ education:
  - level: Dipl. T
    date: 1990
    subject: Computer Electronics Engineering Technology
-   school: Mohake College of Applied Arts and Sciences
+   school: Mohawk College of Applied Arts and Sciences
 
 #This section is optional (as is the image link below)
 # coursera:
@@ -99,7 +99,7 @@ education:
 intro: |
   I am an open systems specialist with 30 years experience working in technology. I have primarily worked with Linux, but have worked across a broad range of technologies thereon: Docker, Kubernetes, Swarm, Ansible, Puppet and currently with Rancher. My experience with enterprise infrastructure has provided a tremendous base for bringing the robustness of HA servers into the world of DevOps through automation and orchestration.  <br/><br/>
   I enjoy system building, and integrating these into the current CI/CD workflows. With a good Product Management focus and an adherence to Agile practices, we can come up with solid solutions to intriguing problems.  <br/><br/>
-  I have worked in large scale consultancy roles across North America as well as a mix of support experience (including Enginnering support roles) that has provided me with a deep understanding of the technology landscape.
+  I have worked in large scale consultancy roles across North America as well as a mix of support experience (including Engineering support roles) that has provided me with a deep understanding of the technology landscape.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 # additionalinfo: |
